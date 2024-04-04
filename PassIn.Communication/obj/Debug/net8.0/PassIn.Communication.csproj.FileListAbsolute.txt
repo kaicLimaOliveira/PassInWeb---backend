@@ -9,3 +9,4 @@ C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Communication\ob
 C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Communication\obj\Debug\net8.0\refint\PassIn.Communication.dll
 C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.pdb
 C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Communication\obj\Debug\net8.0\ref\PassIn.Communication.dll
+C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.sourcelink.json

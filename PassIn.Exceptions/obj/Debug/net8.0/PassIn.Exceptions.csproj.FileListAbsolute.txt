@@ -9,3 +9,4 @@ C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Exceptions\obj\D
 C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Exceptions\obj\Debug\net8.0\refint\PassIn.Exceptions.dll
 C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.pdb
 C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Exceptions\obj\Debug\net8.0\ref\PassIn.Exceptions.dll
+C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.sourcelink.json

@@ -17,3 +17,4 @@ C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Application\obj\
 C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Application\obj\Debug\net8.0\refint\PassIn.Application.dll
 C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Application\obj\Debug\net8.0\PassIn.Application.pdb
 C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Application\obj\Debug\net8.0\ref\PassIn.Application.dll
+C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Application\obj\Debug\net8.0\PassIn.Application.sourcelink.json

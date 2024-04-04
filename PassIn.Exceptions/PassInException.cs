@@ -1,5 +1,5 @@
 ﻿namespace PassIn.Exceptions;
-public class PassInException : System.Exception
+public class PassInException : SystemException
 {
     public PassInException(string message) : base(message)
     {

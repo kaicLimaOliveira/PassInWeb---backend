@@ -9,3 +9,5 @@ C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Infrastructure\o
 C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\refint\PassIn.Infrastructure.dll
 C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.pdb
 C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\ref\PassIn.Infrastructure.dll
+C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\oliveira.kaic\Documents\Apps\nlw\backend\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.sourcelink.json
